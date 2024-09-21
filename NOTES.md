@@ -14,3 +14,8 @@ Facilitan la implementación de interceptores y filtros sobre las peticiones en 
 
 1. En raiz crear una carpeta llamada middlewares
 2. Dentro crear un archivo llamado TimeMiddleware.cs
+
+# Inyección de dependencias
+
+1. Crear una carpeta en raiz llamada Services
+2. Crear un archivo dentro llamado HelloWordServices.cs

@@ -13,7 +13,7 @@ public class WeatherForecastController : ControllerBase
 
     private readonly ILogger<WeatherForecastController> _logger;
 
-    private static List<WeatherForecast> ListWeatherForecast = new List<WeatherForecast>()
+    private static List<WeatherForecast> ListWeatherForecast = new List<WeatherForecast>();
 
 
     public WeatherForecastController(ILogger<WeatherForecastController> logger)

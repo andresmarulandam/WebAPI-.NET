@@ -24,3 +24,10 @@ Facilitan la implementación de interceptores y filtros sobre las peticiones en 
 
 1. En este caso se pasó en los controladores, ver ejemplo en weatherforescastController
 2. En appsettings.development.json: en el loglevel especificar que nivel de log quiero, buscar la documentacion para ver los logs: logging dotnet core
+
+# Documentando API con Swagger
+
+1. Usa el standard OpenApi
+2. Se corre el proyect dotnet run
+3. Ir al localhost que da la consola y agregarle /swagger y saldrá la documentación
+4. Solo se implementa en ambiente de desarrollo.

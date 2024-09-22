@@ -19,3 +19,8 @@ Facilitan la implementación de interceptores y filtros sobre las peticiones en 
 
 1. Crear una carpeta en raiz llamada Services
 2. Crear un archivo dentro llamado HelloWordServices.cs
+
+# Agregando Logs a API
+
+1. En este caso se pasó en los controladores, ver ejemplo en weatherforescastController
+2. En appsettings.development.json: en el loglevel especificar que nivel de log quiero, buscar la documentacion para ver los logs: logging dotnet core

@@ -47,3 +47,7 @@ Facilitan la implementación de interceptores y filtros sobre las peticiones en 
 1. Se creará un servicio para cada modelo
 2. Crear una carpeta llamada Services y dentro un archivo llamado CategoriaService.cs y colocar la logica para el service
 3. Dentro de Services crear un archivo llamado TareasService.cs y colocar la logica
+
+# Inyectando servicios como dependencia
+
+1.  En program.cs

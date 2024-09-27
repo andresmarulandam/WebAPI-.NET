@@ -41,3 +41,9 @@ Facilitan la implementación de interceptores y filtros sobre las peticiones en 
 # Configuración de Entity framework y clases base
 
 1. Copiar en raiz el archivo TareasContext.cs y la carpeta models del proyecto de EntityFramework
+
+# Creación de servicios
+
+1. Se creará un servicio para cada modelo
+2. Crear una carpeta llamada Services y dentro un archivo llamado CategoriaService.cs y colocar la logica para el service
+3. Dentro de Services crear un archivo llamado TareasService.cs y colocar la logica

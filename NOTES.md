@@ -37,3 +37,7 @@ Facilitan la implementación de interceptores y filtros sobre las peticiones en 
 1. Ir a nuget.org y buscar Microsoft.EntityFrameworkCore y seleccionar la ultima versión estable, copiar el codigo y pegarlo en la consola.
 2. Ir a nuget.org y buscar Microsoft.EntityFrameworkCore.InMemory seleccionar la ultima versión estable, copiar el codigo y pegarlo en la consola
 3. Ir a nuget.org y buscar Microsoft.EntityFrameworkCore.SqlServer seleccionar la ultima versión estable, copiar el codigo y pegarlo en la consola
+
+# Configuración de Entity framework y clases base
+
+1. Copiar en raiz el archivo TareasContext.cs y la carpeta models del proyecto de EntityFramework

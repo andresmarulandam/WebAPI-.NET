@@ -31,3 +31,9 @@ Facilitan la implementación de interceptores y filtros sobre las peticiones en 
 2. Se corre el proyect dotnet run
 3. Ir al localhost que da la consola y agregarle /swagger y saldrá la documentación
 4. Solo se implementa en ambiente de desarrollo.
+
+# Agregando librerías para Entity Framework:
+
+1. Ir a nuget.org y buscar Microsoft.EntityFrameworkCore y seleccionar la ultima versión estable, copiar el codigo y pegarlo en la consola.
+2. Ir a nuget.org y buscar Microsoft.EntityFrameworkCore.InMemory seleccionar la ultima versión estable, copiar el codigo y pegarlo en la consola
+3. Ir a nuget.org y buscar Microsoft.EntityFrameworkCore.SqlServer seleccionar la ultima versión estable, copiar el codigo y pegarlo en la consola

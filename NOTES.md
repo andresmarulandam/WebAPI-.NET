@@ -51,3 +51,11 @@ Facilitan la implementación de interceptores y filtros sobre las peticiones en 
 # Inyectando servicios como dependencia
 
 1.  En program.cs
+
+# Crear los controladores.
+
+1. Dentro de la carpeta Controllers crear CategoriaController.cs y TareaController.cs
+
+# Probando API con una base de datos SQL server
+
+1. En program.cs configurar entity framework
